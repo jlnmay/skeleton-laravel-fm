@@ -12,10 +12,7 @@ use GearboxSolutions\EloquentFileMaker\Database\Eloquent\FMModel;
 class User extends FMModel
 {
     use HasApiTokens, HasFactory, Notifiable;
-
-    protected $layout = "employee";
-    protected $table = "employee";
-
+    
     /**
      * The attributes that are mass assignable.
      *
