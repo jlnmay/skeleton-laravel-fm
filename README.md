@@ -6,8 +6,6 @@ Follow these steps to get started:
 
 ## Stack
 
----
-
 -   Laravel 10.x + Inertia
 -   Vue 3.x
 -   Pinia
